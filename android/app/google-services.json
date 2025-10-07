@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971599343885",
+    "project_id": "firesmoke-detector",
+    "storage_bucket": "firesmoke-detector.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971599343885:android:3f795d587824f1e311c044",
+        "android_client_info": {
+          "package_name": "com.SmokeDetector.release"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZNG5ki2oNU0oKUIH3hpCHkw_8eLpzadc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
